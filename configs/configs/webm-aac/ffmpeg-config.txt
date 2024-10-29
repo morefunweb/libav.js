@@ -1,0 +1,9 @@
+--enable-protocol=data --enable-protocol=file
+--enable-filter=aresample
+--enable-muxer=matroska --enable-muxer=webm
+--enable-libopus
+--enable-encoder=libopus
+--enable-encoder=aac
+--enable-libvpx
+--enable-encoder=libvpx_vp8
+--enable-filter=scale

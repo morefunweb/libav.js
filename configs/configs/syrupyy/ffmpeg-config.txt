@@ -1,0 +1,12 @@
+--enable-protocol=data --enable-protocol=file
+--enable-filter=aresample
+--enable-muxer=matroska --enable-muxer=webm
+--enable-muxer=mp4
+--enable-libopus
+--enable-encoder=libopus
+--enable-encoder=aac
+--enable-libvpx
+--enable-encoder=libvpx_vp8
+--enable-libopenh264
+--enable-encoder=libopenh264
+--enable-filter=scale
