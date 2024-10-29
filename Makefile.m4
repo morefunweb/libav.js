@@ -178,7 +178,7 @@ build/inst/thr/cflags.txt:
 	echo -pthread -gsource-map > $@
 
 RELEASE_VARIANTS=\
-	webm-aac
+	comicstudio
 
 release: extract
 	mkdir -p dist/release
