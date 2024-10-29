@@ -1,4 +1,4 @@
-/*!
+ *
  * This software is compiled from several sources, the licenses for which are
  * included herein.
  *
@@ -705,4 +705,4 @@
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
  * IN THE SOFTWARE.
- */
+ *
